@@ -35,6 +35,7 @@ const formatNumber=num=>{
             <p><small>Shipping Cost:{Shipping}</small></p>
             <p><small>Tax + VAT:{tax}</small></p>
             <p>Total price:{grandTotal}</p>
+            <button className='button'>Review Order</button>
 
         </div>
     );
